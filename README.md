@@ -1,6 +1,7 @@
 # GraphMovieDB frontend
 
 Frontend do aplikacji na zaliczenie PPP, PAI, OIRPOS
+
 Autorzy: Oskar Walczak, Marcin Sitarz
 
 Frontend aplikacji przechowującej i wyświetlającej informacjie o filmach w formie grafu
