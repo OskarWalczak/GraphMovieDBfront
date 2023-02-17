@@ -1,3 +1,11 @@
+# GraphMovieDB frontend
+
+Frontend do aplikacji na zaliczenie PPP, PAI, OIRPOS
+Autorzy: Oskar Walczak, Marcin Sitarz
+
+Frontend aplikacji przechowującej i wyświetlającej informacjie o filmach w formie grafu
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
